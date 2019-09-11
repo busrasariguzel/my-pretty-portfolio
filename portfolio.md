@@ -1,5 +1,9 @@
 # `MY PRETTY PORTFOLIO` #
 
+## Background
+
+  *Recent graduate with hands-on experience in internship positions requiring a working knowledge of business development, marketing, portfolio management, and data analysis skills. Adroit in overseeing brand positioning and publicizing products and services to appeal to target audiences.*
+
 ## Education
 
 * New York University
@@ -42,10 +46,11 @@
 
 * Reading books
 * Traveling 
-* Eating 
-* Listening to Turkish rap music
+* Spending time with my parents
+* Listening to Turkish music
 * Going out with my friends
   
+
 
 
 
