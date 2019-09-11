@@ -15,7 +15,7 @@
   * GPA : 3.34
 
 * Study Abroad
-  * Shanghai, China
+  * Shanghai, Chin5. 
   * Abu Dhabi, UAE 
   
 * Kadikoy Anadolu High School
@@ -27,14 +27,14 @@
 ---
 ## Areas of Expertise
 
-* Data Analysis 
-* Client Prospecting
-* Cost-Saving & Budgeting
-* Portfolio Management 
-* New Business Opportunities
-* Marketing Initiatives 
-* Performance Analysis
-* Brand Positioning
+1. Data Analysis 
+2. Client Prospecting
+3. Cost-Saving & Budgeting
+4. Portfolio Management 
+5. New Business Opportunities
+6. Marketing Initiatives 
+7. Performance Analysis
+8. Brand Positioning
 
 ----
 
@@ -45,29 +45,33 @@
 
 * Columbia University
   * Research Assistant 
-  * Conducted a research about Human Right Violations
+  * Conducted a research on  Human Right Violations
+      * Purpose of the research is to determine if there is a corelation between financial crises and human rights violations.
   * Focused on Middle East
+    
 
 * Ak Bank
   * Business Development Intern
   * Took charge over client portfolio
   * Identified & presented business growth opportunities
+  * Took charge over client portfolio on behalf of the company
 
 * Bayer Health Care
   * Marketing Intern
   * Investigated key performance metrics
   * Drafted an ad campaign that featured in Women’s Health Magazine
+  * Conceptualized and launched cutting-edge marketing initiatives to promote major brands.
 
 ---
 ## Hobbies
 
-* Reading books
-* Traveling 
-* Spending time with my parents
-* Listening to Turkish music
-* Going out with my friends
-* Coding!!
-  
+1. Reading books
+2. Traveling 
+3. Spending time with my parents
+4. Listening to Turkish music
+5. Going out with my friends
+6. Coding!!
+
 
 ----
 
