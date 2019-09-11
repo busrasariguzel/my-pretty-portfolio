@@ -37,6 +37,17 @@
   * Investigated key performance metrics
   * Drafted an ad campaign that featured in Women’s Health Magazine
 
+---
+## Hobbies
+
+* Reading books
+* Traveling 
+* Eating 
+* Listening to Turkish rap music
+* Going out with my friends
+  
+
+
 
 
 
