@@ -1,4 +1,4 @@
-# `MY PRETTY PORTFOLIO` #
+# `MY PRETTY PORTFOLIO` # 
 
 ## Background
 
@@ -77,12 +77,14 @@
 
 ## Contact me
 
-  Feel free to contact me anytime! 
-
-* busra.sariguzel@codeimmersives.com
+  Feel free to contact me anytime at busra.sariguzel@codeimmersives.com or 
   
-* [Visit my GitHub page!] (https://github.com/busrasariguzel)
-* 
+
+[Visit my GitHub page!](https://github.com/busrasariguzel/)
+
+![angry monkey coding](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif "angry monkey code")
+
+
 
 
 
