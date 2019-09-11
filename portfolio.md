@@ -4,6 +4,8 @@
 
   *Recent graduate with hands-on experience in internship positions requiring a working knowledge of business development, marketing, portfolio management, and data analysis skills. Adroit in overseeing brand positioning and publicizing products and services to appeal to target audiences.*
 
+  ---
+
 ## Education
 
 * New York University
@@ -23,6 +25,21 @@
 
 
 ---
+## Areas of Expertise
+
+* Data Analysis 
+* Client Prospecting
+* Cost-Saving & Budgeting
+* Portfolio Management 
+* New Business Opportunities
+* Marketing Initiatives 
+* Performance Analysis
+* Brand Positioning
+
+----
+
+
+
 
 ## Experience
 
@@ -51,7 +68,7 @@
 * Going out with my friends
   
 
-
+----
 
 
 
