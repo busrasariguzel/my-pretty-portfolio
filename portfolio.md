@@ -18,6 +18,25 @@
   * Built in 1955
 
 
+---
+
+## Experience
+
+* Columbia University
+  * Research Assistant 
+  * Conducted a research about Human Right Violations
+  * Focused on Middle East
+
+* Ak Bank
+  * Business Development Intern
+  * Took charge over client portfolio
+  * Identified & presented business growth opportunities
+
+* Bayer Health Care
+  * Marketing Intern
+  * Investigated key performance metrics
+  * Drafted an ad campaign that featured in Women’s Health Magazine
+
 
 
 
