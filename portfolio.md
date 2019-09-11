@@ -66,10 +66,19 @@
 * Spending time with my parents
 * Listening to Turkish music
 * Going out with my friends
+* Coding!!
   
 
 ----
 
+## Contact me
+
+  Feel free to contact me anytime! 
+
+* busra.sariguzel@codeimmersives.com
+  
+* [Visit my GitHub page!] (https://github.com/busrasariguzel)
+* 
 
 
 
